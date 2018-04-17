@@ -1,6 +1,6 @@
 @keyframes redsq {
     from {background-color: red;}
-    to {background-color: yellow;}
+    to {background-color: blue;}
 }
 
 #redsquare {
