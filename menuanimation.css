@@ -1,12 +1,7 @@
-@keyframes redsq {
-    from {background-color: red;}
-    to {background-color: orange;}
-}
-
 #redsquare {
-    width: 100px;
-    height: 100px;
+	position: relative;
+    width: 200px;
+    height: 200px;
+    top: -30%;
     background-color: red;
-    animation-name: redsq;
-    animation-duration: 4s;
 }
