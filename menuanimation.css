@@ -1,0 +1,12 @@
+@keyframes redsq {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
+
+#redsquare {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: redsq;
+    animation-duration: 4s;
+}
