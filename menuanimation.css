@@ -45,7 +45,7 @@
     width: 1em;
     height: 0.5em;
     background-color: #FFF;
-    border-radius: 0.5em;
+    border-radius: 0.1em;
     position: absolute;
     transition-property: transform;
     transition-duration: 0.15s;
