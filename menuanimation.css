@@ -1,6 +1,7 @@
 .redsquare {
     width: 100px;
     height: 100px;
+    top: -30%;
     background-color: red;
     animation-name: redsq;
     animation-duration: 4s;
