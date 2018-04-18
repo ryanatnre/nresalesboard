@@ -20,3 +20,19 @@
   height: 200px;
   width: 200px;
 }
+
+.settings {
+  -webkit-transition: all 0.5s ease;  
+  -moz-transition: all 0.5s ease;  
+  -o-transition: all 0.5s ease;  
+  -ms-transition: all 0.5s ease;  
+  transition: all 0.5s ease;
+}
+
+.settings-active {
+  -webkit-transform: translateX(20%);  
+  -moz-transform: translateX(20%);  
+  -o-transform: translateX(20%);  
+  -ms-transform: translateX(20%);  
+  transform: translateX(20%); 
+}
