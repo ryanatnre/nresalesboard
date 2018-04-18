@@ -3,7 +3,7 @@
     width: 100px;
     height: 100px;
     top: -30%;
-    background-color: red;
+    background-color: blue;
     animation-duration: 4s;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .transform-active {
-  background-color: #45CEE0;
+  background-color: red;
   height: 200px;
   width: 200px;
 }
