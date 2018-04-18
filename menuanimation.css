@@ -7,11 +7,11 @@
 }
 
 .settings-active {
-  -webkit-transform: translateX(15%);  
-  -moz-transform: translateX(15%);  
-  -o-transform: translateX(15%);  
-  -ms-transform: translateX(15%);  
-  transform: translateX(15%); 
+  -webkit-transform: translateX(18%);  
+  -moz-transform: translateX(18%);  
+  -o-transform: translateX(18%);  
+  -ms-transform: translateX(18%);  
+  transform: translateX(18%); 
 }
 
 .hamburger {
