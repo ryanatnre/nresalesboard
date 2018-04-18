@@ -41,7 +41,7 @@
   display: block;
   top: 50%;
   margin-top: -2px; }
-  .hamburger-inner {
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 1.5em;
     height: 0.3em;
     background-color: #FFF;
