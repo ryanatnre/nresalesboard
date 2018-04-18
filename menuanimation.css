@@ -32,8 +32,8 @@
     opacity: 0.7; }
 
 .hamburger-box {
-  width: 1em;
-  height: 0.5em;
+  width: 0.5em;
+  height: 0.25em;
   display: inline-block;
   position: relative; }
 
